@@ -23,6 +23,12 @@ venv\Scripts\activate    # Windows
 ## Install dependencies
 pip install -r requirements.txt
 
+## Note 
+- The tool requires a GitHub API Key for fetching repositories.
+Get Your GitHub API Key:
+    Go to GitHub Developer Settings.
+    Generate a new token (classic) with repo read access and copy it to paste it in the tool.
+
 ## Running the tool
 
 ```bash
@@ -32,3 +38,6 @@ python main.py
 # Demo 
    
    ![Demo](assets/demo.mp4)
+
+   Dont worry the api key i used it Expired now :)
+
