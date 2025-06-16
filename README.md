@@ -2,7 +2,7 @@
 
 A powerful python tool with friendly UI to scrape GitHub repositories based on specific keywords, sort them by stars, and filter them by programming language. This tool allows easy exploration of top repositories and opens them in a browser directly from the tool.
 
-#Features
+# Features
  - **Stores Github api locally for seamless searches**
  - **Filter by programming language**
  - **Easy to open up the retrieved results**
