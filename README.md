@@ -37,7 +37,8 @@ python main.py
 
 # Demo 
    
-   [Watch the Demo vid](https://youtu.be/rGl0NNzb3sU)
+   [![Watch the demo vid](https://img.youtube.com/vi/rGl0NNzb3sU/0.jpg)](https://youtu.be/rGl0NNzb3sU)
+
 
    Dont worry the api key i used it Expired now :)
 
