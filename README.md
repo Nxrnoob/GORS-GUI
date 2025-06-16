@@ -1,1 +1,34 @@
 # GORS-GUI
+
+A powerful python tool with friendly UI to scrape GitHub repositories based on specific keywords, sort them by stars, and filter them by programming language. This tool allows easy exploration of top repositories and opens them in a browser directly from the tool.
+
+#Features
+ - **Stores Github api locally for seamless searches**
+ - **Filter by programming language**
+ - **Easy to open up the retrieved results**
+ - **Just a better github search**
+
+# Usage
+
+```bash
+# Clone the repository
+git clone https://github.com/Nxrnoob/GORS-GUI.git
+cd GORS-GUI
+
+## Create a virtual environment (not necessary but recommended)
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate    # Windows
+
+## Install dependencies
+pip install -r requirements.txt
+
+## Running the tool
+
+```bash
+python main.py
+```
+
+# Demo 
+   
+   ![Demo](assets/demo.mp4)
