@@ -40,4 +40,4 @@ python main.py
   Click the below img to see the vid
    [![Watch the demo vid](https://img.youtube.com/vi/rGl0NNzb3sU/0.jpg)](https://youtu.be/rGl0NNzb3sU)
 
-   Dont worry the api  key i used it Expired now :)
+   Dont worry the api  key i used is Expired now :)
