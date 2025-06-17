@@ -2,13 +2,13 @@
 
 A powerful python tool with friendly UI to scrape GitHub repositories based on specific keywords, sort them by stars, and filter them by programming language. This tool allows easy exploration of top repositories and opens them in a browser directly from the tool.
 
-# Features
+## Features
  - **Stores Github api locally for seamless searches**
  - **Filter by programming language**
  - **Easy to open up the retrieved results**
  - **Just a better github search**
 
-# Usage
+## Usage
 
 ```bash
 # Clone the repository
@@ -28,17 +28,16 @@ Note
 Get Your GitHub API Key:
     Go to GitHub Developer Settings.
     Generate a new token (classic) with repo read access and copy it to paste it in the tool.
+```
 
 ## Running the tool
-
 ```bash
 python main.py
 ```
 
-# Demo 
-   
+
+## Demo 
+  Click the below img to see the vid
    [![Watch the demo vid](https://img.youtube.com/vi/rGl0NNzb3sU/0.jpg)](https://youtu.be/rGl0NNzb3sU)
 
-
-   Dont worry the api key i used it Expired now :)
-
+   Dont worry the api 
